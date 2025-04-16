@@ -32,7 +32,7 @@ I’m a passionate Web Developer with a love for clean UI, responsive design, an
   - Real-time communication features
 - **[Smart Presence]**
   - Real time attendance tracking system
-  - Face regonition
+  - Face recognition system
 - **[AI-Powered query assistance]**
   - Students query resolving interface
   - Can handle general FAQs automatically
