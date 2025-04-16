@@ -25,13 +25,6 @@ I’m a passionate Web Developer with a love for clean UI, responsive design, an
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Joker-pyc&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=Joker-pyc&theme=github-dark&hide_border=true" />
-</div>
-
 ## 🚀 Featured Projects
 
 - **[Mentor Match](https://github.com/Joker-pyc/Mentor-Match)**
