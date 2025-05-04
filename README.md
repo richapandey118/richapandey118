@@ -25,7 +25,7 @@ I’m a passionate Web Developer with a love for clean UI, responsive design, an
 
 ## 🚀 Featured Projects
 
-- **[Mentor Match](https://github.com/richapandey118/Mentor-Match.git)**
+- **[Mentor Match](https://richapandey118.github.io/Mentor-Match/)**
   - Platform connecting mentors with mentees
   - Smart matching algorithm
   - Real-time communication features
