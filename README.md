@@ -6,7 +6,6 @@ I’m a passionate Web Developer with a love for clean UI, responsive design, an
 ## 🔧 Technologies & Tools
 
 ### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
@@ -40,8 +39,8 @@ I’m a passionate Web Developer with a love for clean UI, responsive design, an
 
 
 ## 📫 Get in Touch
-- LinkedIn: [Richa Pandey]
-- Portfolio: [View Portfolio]
+- LinkedIn: [Richa Pandey](https://www.linkedin.com/in/richa-pandey-812237294)
+- Portfolio: [View Portfolio](https://github.com/richapandey118/Portfolio.git)
 - Email: richapandey684@gmail.com
 
 
