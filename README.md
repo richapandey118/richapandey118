@@ -40,7 +40,7 @@ I’m a passionate Web Developer with a love for clean UI, responsive design, an
 
 ## 📫 Get in Touch
 - LinkedIn: [Richa Pandey](https://www.linkedin.com/in/richa-pandey-812237294)
-- Portfolio: [View Portfolio](https://github.com/richapandey118/Portfolio.git)
+- Portfolio: [View Portfolio](https://richapandey118.github.io/Portfolio/)
 - Email: richapandey684@gmail.com
 
 
