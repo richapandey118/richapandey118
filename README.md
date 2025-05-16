@@ -1,13 +1,13 @@
 # Richa Pandey
-### Software Developer | MERN Stack Developer 
+### Frontend Developer | MERN Stack Developer 
 
 ## About Me
-I’m a passionate Web Developer with a love for clean UI, responsive design, and real-world problem-solving through code. I enjoy building interactive and user-friendly websites using modern technologies like HTML, CSS, JavaScript, and Node.js.Currently diving deeper into full-stack development with Express and MySQL, and constantly exploring new tools to level up my skills. I'm also working on personal projects to enhance my learning and contribute to the developer community.
+I’m a passionate Web Developer with a love for clean UI, responsive design, and real-world problem-solving through code. I enjoy building interactive and user-friendly user interface using modern technologies like HTML, CSS, JavaScript.Currently diving deeper into full-stack development with Express and node.js, and constantly exploring new tools to level up my skills. I'm also working on personal projects to enhance my learning and contribute to the developer community.
 ## 🔧 Technologies & Tools
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
 
 
 
@@ -15,8 +15,7 @@ I’m a passionate Web Developer with a love for clean UI, responsive design, an
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+
 
 
 ### Tools & Platforms
@@ -29,10 +28,7 @@ I’m a passionate Web Developer with a love for clean UI, responsive design, an
   - Platform connecting mentors with mentees
   - Smart matching algorithm
   - Real-time communication features
-- **[Smart Presence]**
-  - Real time attendance tracking system
-  - Face recognition system
-- **[AI-Powered query assistance]**
+- **[AI-Powered query assistance](https://richapandey118.github.io/AI-Powered-query-assistant/)**
   - Students query resolving interface
   - Can handle general FAQs automatically
   - includes query tracking system
